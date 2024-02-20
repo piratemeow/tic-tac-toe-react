@@ -1,3 +1,5 @@
+# What is it?
+A tic-tac-toe game built with react by following the tutorial on the official react documentation website.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
